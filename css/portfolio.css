@@ -14,3 +14,9 @@
 #portfolio-heading {
 	margin: 30px 0;
 }
+
+@media(min-width: 1000px){
+	.portfolio-project.twelve.columns {
+		width: 50%;
+	}
+}

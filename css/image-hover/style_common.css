@@ -12,14 +12,14 @@
    -moz-box-shadow: 1px 1px 2px #e6e6e6;
    box-shadow: 1px 1px 2px #e6e6e6;
    cursor: default;
-   background: #fff url(../../images/bgimg.jpg) no-repeat center center;
-   background-size: 100%;
+   background-color: #F8F8F8;
 }
 .view .mask,.view .content {
-   width: 360px;
+   width: auto;
+   max-width: 360px;
    height: 240px;
    position: absolute;
-   overflow: hidden;
+   overflow: scroll;
    top: 0;
    left: 0;
 }
