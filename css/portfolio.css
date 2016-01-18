@@ -2,6 +2,15 @@
 	text-align: center;
 }
 
+#portfolio-projects {
+	margin: 30px;
+}
+
+.portfolio-project {
+	display: flex;
+	justify-content: space-around;
+}
+
 #portfolio-heading {
 	margin: 30px 0;
 }
