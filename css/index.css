@@ -1,0 +1,29 @@
+#home-page-container {
+	text-align: center;
+}
+
+#home-page-heading {
+	margin: 100px 0;
+}
+
+#home-page-links {
+	margin-bottom: 80px;
+}
+
+#home-page-links .button {
+	
+}
+
+#home-page-media {
+	margin-bottom: 40px;
+}
+
+#home-page-media a {
+	text-decoration: none;
+	color: black;
+	margin: 10px; 	
+}
+
+#home-page-media a:hover{
+	opacity: 0.7;
+}
