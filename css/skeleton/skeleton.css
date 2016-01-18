@@ -197,8 +197,9 @@ button:focus,
 input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
-  color: #333;
-  border-color: #888;
+  color: #FFF;
+  border-color: #FFF;
+  opacity: 0.7;
   outline: 0; }
 .button.button-primary,
 button.button-primary,
