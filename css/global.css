@@ -1,0 +1,16 @@
+body {	
+	background-color: #000;
+	color: #FFF;
+}
+
+.home-link {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.home-link:hover,
+.home-link:focus,
+.home-link:active {
+	color: #FFF;
+	text-decoration: underline;
+}

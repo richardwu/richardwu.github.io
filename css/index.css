@@ -3,7 +3,12 @@
 }
 
 #home-page-heading {
-	margin: 100px 0;
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+
+#home-page-studbuds {
+	margin-bottom: 60px;
 }
 
 #home-page-links {
@@ -20,7 +25,7 @@
 
 #home-page-media a {
 	text-decoration: none;
-	color: black;
+	color: #FFF;
 	margin: 10px; 	
 }
 
