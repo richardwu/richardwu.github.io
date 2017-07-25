@@ -1,4 +1,4 @@
-body {	
+body {
 	background-color: #000;
 	color: #FFF;
 }
@@ -6,6 +6,7 @@ body {
 .home-link {
 	color: #FFF;
 	text-decoration: none;
+        margin: 20px 0;
 }
 
 .home-link:hover,
