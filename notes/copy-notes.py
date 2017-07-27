@@ -11,14 +11,20 @@ COURSES = {
             ]
         }
 
-PDF_SUFFIX = "-notes.pdf"
+PDF_SUFFICES = ["-notes.pdf", "-final-notes.pdf"]
 
 for term, courses in COURSES.items():
     for course in courses:
-        filename = course + PDF_SUFFIX
-        origFpath = os.path.join(BASE, term, course.upper(), filename)
+        for PDF_SUFFIX in PDF_SUFFICES:
+            filename = course + PDF_SUFFIX
+            origFpath = os.path.join(BASE, term, course.upper(), filename)
 
-        # If file is outddated, do a copy
-        if not filecmp.cmp(origFpath, filename):
-            print("Outdated file: copying", origFpath)
-            shutil.copyfile(origFpath, filename)
+            # If file does not exist, skip
+            if not os.path.exists(origFpath):
+                print("File not found:", origFpath)
+                continue
+
+            # If file is outddated (or not copied), do a copy
+            if not os.path.exists(filename) or not filecmp.cmp(origFpath, filename):
+                print("Outdated file: copying", origFpath)
+                shutil.copyfile(origFpath, filename)
