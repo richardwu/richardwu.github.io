@@ -1,10 +1,14 @@
 body {
-	background-color: #000;
-	color: #FFF;
+	background-color: #34495e;
+	color: #ecf0f1;
 }
 
+a { color: #3498db; }
+a:hover { color: #2980b9; }
+
 .home-link {
-	color: #FFF;
+        color: #ecf0f1;
+        font-weight: bold;
 	text-decoration: none;
         margin: 20px 0;
 }
@@ -12,6 +16,27 @@ body {
 .home-link:hover,
 .home-link:focus,
 .home-link:active {
-	color: #FFF;
+        color: #ecf0f1;
 	text-decoration: underline;
+}
+
+/* buttons */
+
+.button.button-primary {
+  background-color: #3498db;
+  border-color: #3498db;
+}
+
+.button.button-primary:hover,
+button.button-primary:hover,
+input[type="submit"].button-primary:hover,
+input[type="reset"].button-primary:hover,
+input[type="button"].button-primary:hover,
+.button.button-primary:focus,
+button.button-primary:focus,
+input[type="submit"].button-primary:focus,
+input[type="reset"].button-primary:focus,
+input[type="button"].button-primary:focus {
+  background-color: #2980b9;
+  border-color: #2980b9;
 }
