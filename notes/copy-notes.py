@@ -14,6 +14,7 @@ COURSES = {
                 "stat331",
                 "stat333",
                 "math247",
+                "cs442",
             ],
         }
 
