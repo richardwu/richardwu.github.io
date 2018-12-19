@@ -20,7 +20,7 @@ COURSES = {
             "4a": [
                 "stat433",
                 "pmath351",
-                "stat330",
+                # "stat330", requested take down
                 "cs343",
                 "cs466",
             ],
