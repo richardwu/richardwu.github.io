@@ -24,6 +24,13 @@ COURSES = {
                 "cs343",
                 "cs466",
             ],
+
+            "4b": [
+                "chem254",
+                "cs444",
+                "cs485",
+                "cs489",
+            ],
         }
 
 PDF_SUFFICES = ["-notes.pdf", "-final-notes.pdf"]
