@@ -6,34 +6,137 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>https://www.richardwu.ca/</loc>
-  <lastmod>2017-12-15T18:22:15+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.richardwu.ca/</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.richardwu.ca/portfolio</loc>
-  <lastmod>2017-12-15T18:22:15+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.richardwu.ca/papers</loc>
+  <lastmod>2019-02-14T05:36:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.richardwu.ca/resume.pdf</loc>
-  <lastmod>2017-12-15T18:22:15+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.richardwu.ca/notes</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.richardwu.ca/papers</loc>
-  <lastmod>2017-12-18T18:22:15+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.richardwu.ca/resume.pdf</loc>
+  <lastmod>2019-02-14T05:36:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.richardwu.ca/notes</loc>
-  <lastmod>2017-12-15T18:22:15+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <loc>http://www.richardwu.ca/papers/us-education.pdf</loc>
+  <lastmod>2019-02-14T05:36:21+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+<url>
+  <loc>http://www.richardwu.ca/papers/interleaved-table-joins.pdf</loc>
+  <lastmod>2019-02-14T05:36:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/co250-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/co250-final-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/math239-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/math239-final-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/stat231-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/stat231-final-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/cs442-final-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/math247-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/math247-final-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/stat331-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/stat333-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/cs343-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/cs466-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/pmath351-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/stat433-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/chem254-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/cs444-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/cs485-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/cs489-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.richardwu.ca/notes/stat444-notes.pdf</loc>
+  <lastmod>2019-02-14T05:36:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
