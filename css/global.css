@@ -45,3 +45,7 @@ input[type="button"].button-primary:focus {
   background-color: #2980b9;
   border-color: #2980b9;
 }
+
+.align-left {
+  text-align: left;
+}
